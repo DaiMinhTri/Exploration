@@ -1,0 +1,9 @@
+﻿{
+    "name": "Exploration",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/DaiMinhTri/Exploration",
+    "description": "A skill mod that adds the Exploration skill. Increases movement speed, exploration radius, and pins resources/dungeons on the map as you explore.",
+    "dependencies": [],
+    "install_mode": "BepInEx",
+    "content_folder_id": "Exploration"
+}
